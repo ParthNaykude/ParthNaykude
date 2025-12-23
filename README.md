@@ -57,7 +57,7 @@
 ## 🛠 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,mysql,spring,mongodb,express,react,nodejs,html,css,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,mysql,mongodb,express,react,nodejs,html,css,git,github" />
 </p>
 
 ---
